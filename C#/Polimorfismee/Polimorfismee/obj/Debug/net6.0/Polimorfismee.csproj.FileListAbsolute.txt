@@ -1,0 +1,15 @@
+C:\Users\LENOVO\source\repos\Polimorfismee\Polimorfismee\bin\Debug\net6.0\Polimorfismee.exe
+C:\Users\LENOVO\source\repos\Polimorfismee\Polimorfismee\bin\Debug\net6.0\Polimorfismee.deps.json
+C:\Users\LENOVO\source\repos\Polimorfismee\Polimorfismee\bin\Debug\net6.0\Polimorfismee.runtimeconfig.json
+C:\Users\LENOVO\source\repos\Polimorfismee\Polimorfismee\bin\Debug\net6.0\Polimorfismee.dll
+C:\Users\LENOVO\source\repos\Polimorfismee\Polimorfismee\bin\Debug\net6.0\Polimorfismee.pdb
+C:\Users\LENOVO\source\repos\Polimorfismee\Polimorfismee\obj\Debug\net6.0\Polimorfismee.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Polimorfismee\Polimorfismee\obj\Debug\net6.0\Polimorfismee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\Polimorfismee\Polimorfismee\obj\Debug\net6.0\Polimorfismee.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Polimorfismee\Polimorfismee\obj\Debug\net6.0\Polimorfismee.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Polimorfismee\Polimorfismee\obj\Debug\net6.0\Polimorfismee.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Polimorfismee\Polimorfismee\obj\Debug\net6.0\Polimorfismee.dll
+C:\Users\LENOVO\source\repos\Polimorfismee\Polimorfismee\obj\Debug\net6.0\refint\Polimorfismee.dll
+C:\Users\LENOVO\source\repos\Polimorfismee\Polimorfismee\obj\Debug\net6.0\Polimorfismee.pdb
+C:\Users\LENOVO\source\repos\Polimorfismee\Polimorfismee\obj\Debug\net6.0\Polimorfismee.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\Polimorfismee\Polimorfismee\obj\Debug\net6.0\ref\Polimorfismee.dll
